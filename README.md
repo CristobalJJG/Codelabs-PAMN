@@ -54,3 +54,18 @@ Se realizó una **aplicacion** con posibilidad de escribir texto, y al pulsar un
 Se aprendió el uso de _**intent**_ para poder pasar de una pantalla a otra.  
 Se aprendió el uso de _**contextos**_ para poder decir saber de qué página venimos y en qué página estamos.
 > Esta tontería me ha llevado **otras 3 horas**, debido a que la página nueva está escrita para java (por lo que hay funciones que no se escriben de la misma manera), y la información general sobre como funciona la transición de pantallas **me resultó confusa**. Hasta que intentando que funcionara de distintas formas, salió algo aceptable.
+
+
+#### **Codelab 2.2** 🧀  
+Se reforzó la idea de los contextos, además, se aprendió el ciclo de vida de un programa.  
+
+- onCreate()
+- onStart()
+- onPause()
+- onRestart()
+- onResume()
+- onStop()
+- onDestroy()
+
+Se usa con los Log.d, por lo que podemos ver con cada movimiento de la aplicación en qué estado se encuentra.  
+Además, se hizo el [coding challenge](https://developer.android.com/codelabs/android-training-activity-lifecycle-and-state?index=..%2F..%2Fandroid-training#4) que consistía en tener dos pantallas, la pantalla 1, donde se muestre una palabra, y la pantalla 2, con un conjunto de posibilidades, y al clicar alguna de estas, se muestre la palabra en la pantalla 1.
