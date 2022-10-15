@@ -6,6 +6,8 @@ Hemos decidido realizar las prácticas con Android Pie (Android 9), para poder t
 # Notas de Cristóbal Jiménez 📝
 Empecé a hacer los Codelabs de la página deprecada, y decidí cambiar a la página no deprecada, por lo que los Codelab 1, 2 y 3, son de la página deprecada y los Codelab 1.5 en adelante son de la [página no deprecada](https://developer.android.com/courses/fundamentals-training/toc-v2).  
 
+Es bastante molesto que solo haya Codelabs en Java (o al menos no he sido capaz de encontrarlos), por lo que buscando algo de ayuda llegué a otra página de androdi studio, para poder llegar a un certificado, donde hay ayudas -> [Android Basics](https://developer.android.com/courses/android-basics-kotlin/course).
+
 ## Codelab 1
 ### Codelab 1.1 👋
 Log y cambiar "Hello World!" por "Feliz Cumpleaños X"  

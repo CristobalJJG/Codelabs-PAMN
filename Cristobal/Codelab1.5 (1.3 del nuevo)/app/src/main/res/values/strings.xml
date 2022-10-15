@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Codelab 1.5 (1.3 del nuevo)</string>
+    <string name="header_articulo">Codelab 1.3 Nuevo</string>
+    <string name="subheader_articulo">Lorem Ipsum</string>
+    <string name="content_articulo">
+        <b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit. In laoreet nec
+        nisi id cursus. Mauris dignissim mauris sed tincidunt commodo. Vestibulum feugiat
+        orci ut convallis dictum. Cras pellentesque ultricies ex nec congue. Fusce laoreet
+        id neque pulvinar facilisis. Nulla viverra mi dui, quis sollicitudin metus tincidunt
+        facilisis. Quisque blandit tincidunt varius. Maecenas tempus ligula et odio maximus,
+        consequat pharetra quam maximus. Sed vulputate vitae leo sit amet feugiat. Curabitur
+        ante sapien, feugiat consequat ultricies in, aliquet non tortor. Nulla eu rutrum
+        sapien. Vestibulum a orci turpis. Vestibulum quam lacus, pellentesque nec commodo
+        cursus, luctus eu nunc. Proin elementum et felis nec mattis. Sed et nibh leo.
+        Phasellus sed velit ac urna porta faucibus egestas sit amet erat.\n
+        Etiam nulla augue, commodo ut ullamcorper eu, dictum vitae justo. Proin in
+        sodales tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        Aliquam pulvinar est in porta viverra. Maecenas pretium massa venenatis lacus
+        accumsan lobortis. Curabitur lacinia nec lacus a tincidunt. Sed a arcu vehicula
+        ipsum tincidunt interdum sed quis nunc. Aliquam rutrum tincidunt imperdiet. Nunc
+        eget quam placerat turpis condimentum interdum. Suspendisse leo lectus, pretium
+        sit amet volutpat in, placerat id ex. Aliquam velit felis, ultricies a dignissim
+        quis, tempor vel purus. Donec vitae vehicula erat, non iaculis nisl. Sed nunc purus,
+        cursus at hendrerit eget, rhoncus sit amet lacus. Etiam sit amet nunc egestas
+        lacus varius tincidunt vel vel urna.\n
+        Ut varius volutpat est. Vivamus vitae ante et sem fermentum elementum. Nam at
+        lectus vitae tellus facilisis fringilla. Proin volutpat enim quam, eu aliquam
+        nisi fringilla et. Pellentesque et tincidunt felis, ac accumsan purus. Class
+        aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
+        himenaeos. Nullam nec eros ac nunc cursus varius. Aliquam consequat rutrum
+        feugiat.\n
+        Praesent euismod diam nec erat scelerisque, nec laoreet odio sodales. Fusce
+        euismod nibh vitae turpis mattis finibus. Curabitur eget posuere libero, a
+        blandit urna. Pellentesque vulputate tortor ut odio molestie lacinia. Maecenas
+        in ante eleifend, sollicitudin magna eget, porttitor velit. In ultrices, ex sit
+        amet molestie bibendum, tortor libero pretium libero, ut imperdiet mauris neque
+        vel justo. Maecenas eleifend auctor purus vitae interdum. Donec eu eros nulla.
+        Etiam consequat leo tortor, ac ultrices nulla sagittis ac. Vestibulum ante ipsum
+        primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus ornare
+        libero a nunc scelerisque vestibulum.\n
+        Etiam feugiat sagittis augue, at porta dolor finibus in. Etiam ut iaculis lorem.
+        Morbi aliquam efficitur felis ac porta. Praesent pellentesque consequat neque,
+        non finibus risus iaculis eget. Donec nec porttitor nisi. Quisque mattis rhoncus
+        nibh sodales vulputate. Curabitur elit ex, maximus eu condimentum at, posuere sed
+        leo.\n
+        <b><i>www.google.com</i></b>\n
+    </string>
+</resources>

@@ -1,4 +1,0 @@
-#Sat Oct 15 16:15:49 WEST 2022
-base.0=/home/nano/AndroidStudioProjects/BasicTransition/Application/build/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
