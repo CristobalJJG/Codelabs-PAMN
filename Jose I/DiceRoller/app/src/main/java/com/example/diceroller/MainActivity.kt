@@ -1,11 +1,11 @@
 package com.example.diceroller
 
-import android.annotation.SuppressLint
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toast
+import java.util.logging.Logger.global
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -19,19 +19,35 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun rollAumenta() {
-        val resultText: TextView = findViewById(R.id.result_text)
-        if (resultText.text.equals("Hello World!")) {
-            resultText.text = "1"
-        }else if ( resultText.text.toString().toInt() < 6 ){
-            resultText.text = (resultText.text.toString().toInt() + 1).toString()
+        val resultImage: ImageView = findViewById(R.id.dice_image)
+
+        if (resultImage.drawable.equals(R.drawable.dice_1)) {
+            resultImage.setImageResource(R.drawable.dice_2)
         }
+        /*} else if (resultImage.drawable.equals(R.drawable.dice_2)){
+            resultImage.setImageResource(R.drawable.dice_3)
+        } else if (resultImage.drawable.equals(R.drawable.dice_3)){
+            resultImage.setImageResource(R.drawable.dice_4)
+        } else if (resultImage.drawable.equals(R.drawable.dice_4)){
+            resultImage.setImageResource(R.drawable.dice_5)
+        } else {
+            resultImage.setImageResource(R.drawable.dice_6)
+        }*/
 
     }
 
     private fun rollDice(){
         //Toast.makeText(this, "button clicked", Toast.LENGTH_SHORT).show()
-        val resultText: TextView = findViewById(R.id.result_text)
+        val resultImage: ImageView = findViewById(R.id.dice_image)
         val randomInt = (1..6).random()
-        resultText.text = randomInt.toString()
+        val drawableImage = when (randomInt) {
+            1 -> R.drawable.dice_1
+            2 -> R.drawable.dice_2
+            3 -> R.drawable.dice_3
+            4 -> R.drawable.dice_4
+            5 -> R.drawable.dice_5
+            else -> R.drawable.dice_6
+        }
+        resultImage.setImageResource(drawableImage)
     }
 }
