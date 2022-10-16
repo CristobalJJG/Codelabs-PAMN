@@ -75,3 +75,8 @@ Se aprendión los distintos tipos de entrada de texto:
 - **Web** - Podemos escribir una página web, y si existe nos llevará a ella.
 - **Ubicación** - Podemos escribir una dirección, y nos llevará a ella.
 - **Texto** - Podemos escribir un texto, y al clicar el botón podremos elegir en qué aplicación queremos enviarlo.
+
+---
+### **Lección 3**
+#### **Codelab 3.1** 🐞
+Se aprendión el uso del **_Debugger/Depurador_** sobre un proyecto de calculadora (para simplificar, decidí hacer yo una calculadora, y no usar la plantilla).
