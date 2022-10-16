@@ -69,3 +69,9 @@ Se reforzó la idea de los contextos, además, se aprendió el ciclo de vida de 
 
 Se usa con los Log.d, por lo que podemos ver con cada movimiento de la aplicación en qué estado se encuentra.  
 Además, se hizo el [coding challenge](https://developer.android.com/codelabs/android-training-activity-lifecycle-and-state?index=..%2F..%2Fandroid-training#4) que consistía en tener dos pantallas, la pantalla 1, donde se muestre una palabra, y la pantalla 2, con un conjunto de posibilidades, y al clicar alguna de estas, se muestre la palabra en la pantalla 1.
+
+#### **Codelab 2.3** 📍  
+Se aprendión los distintos tipos de entrada de texto:
+- **Web** - Podemos escribir una página web, y si existe nos llevará a ella.
+- **Ubicación** - Podemos escribir una dirección, y nos llevará a ella.
+- **Texto** - Podemos escribir un texto, y al clicar el botón podremos elegir en qué aplicación queremos enviarlo.
