@@ -55,7 +55,7 @@ Se aprendió el uso de _**intent**_ para poder pasar de una pantalla a otra.
 Se aprendió el uso de _**contextos**_ para poder decir saber de qué página venimos y en qué página estamos.
 > Esta tontería me ha llevado **otras 3 horas**, debido a que la página nueva está escrita para java (por lo que hay funciones que no se escriben de la misma manera), y la información general sobre como funciona la transición de pantallas **me resultó confusa**. Hasta que intentando que funcionara de distintas formas, salió algo aceptable.
 
-
+---
 #### **Codelab 2.2** 🧀  
 Se reforzó la idea de los contextos, además, se aprendió el ciclo de vida de un programa.  
 
@@ -70,6 +70,7 @@ Se reforzó la idea de los contextos, además, se aprendió el ciclo de vida de 
 Se usa con los Log.d, por lo que podemos ver con cada movimiento de la aplicación en qué estado se encuentra.  
 Además, se hizo el [coding challenge](https://developer.android.com/codelabs/android-training-activity-lifecycle-and-state?index=..%2F..%2Fandroid-training#4) que consistía en tener dos pantallas, la pantalla 1, donde se muestre una palabra, y la pantalla 2, con un conjunto de posibilidades, y al clicar alguna de estas, se muestre la palabra en la pantalla 1.
 
+---
 #### **Codelab 2.3** 📍  
 Se aprendión los distintos tipos de entrada de texto:
 - **Web** - Podemos escribir una página web, y si existe nos llevará a ella.
@@ -82,13 +83,19 @@ Se aprendión los distintos tipos de entrada de texto:
 Se aprendión el uso del **_Debugger/Depurador_** sobre un proyecto de calculadora (para simplificar, decidí hacer yo una calculadora, y no usar la plantilla).
 
 
+---
 #### **Codelab 3.2** 🧪️
 Se aprendión el uso de los **_Test Unitarios_** sobre un proyecto de calculadora (Codelab 3.1).
 
+---
 #### **Codelab 3.3** 🖌
 Se aprendión el uso de las **_Librerías_** sobre un proyecto de en blanco, que consiste en cambiar de color una frase.  
 
----
+---  
+
 ## **Unidad 2**
 ### **Lección 4**
-#### **Codelab 4.1** 👋
+#### **Codelab 4.1** 🍨
+Se aprendió la forma de usar **_imágenes_**, y las distintas utilidades que puede llegar a tener los codelabs anteriores, haciendo uso de los _intent_, los _onclick_, las _variabels globales_ y los datos entre dos actividades distintas.
+
+---
