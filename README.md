@@ -80,3 +80,15 @@ Se aprendión los distintos tipos de entrada de texto:
 ### **Lección 3**
 #### **Codelab 3.1** 🐞
 Se aprendión el uso del **_Debugger/Depurador_** sobre un proyecto de calculadora (para simplificar, decidí hacer yo una calculadora, y no usar la plantilla).
+
+
+#### **Codelab 3.2** 🧪️
+Se aprendión el uso de los **_Test Unitarios_** sobre un proyecto de calculadora (Codelab 3.1).
+
+#### **Codelab 3.3** 🖌
+Se aprendión el uso de las **_Librerías_** sobre un proyecto de en blanco, que consiste en cambiar de color una frase.  
+
+---
+## **Unidad 2**
+### **Lección 4**
+#### **Codelab 4.1** 👋
