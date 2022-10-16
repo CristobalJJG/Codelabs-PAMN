@@ -99,3 +99,5 @@ Se aprendión el uso de las **_Librerías_** sobre un proyecto de en blanco, que
 Se aprendió la forma de usar **_imágenes_**, y las distintas utilidades que puede llegar a tener los codelabs anteriores, haciendo uso de los _intent_, los _onclick_, las _variabels globales_ y los datos entre dos actividades distintas.
 
 ---
+#### **Codelab 4.2** 🗂
+En esta sección se aprendió las distintas formas de usar un "_input_", el uso del _radioButton_, y el uso del _spinner_ (lista desplegable con cosas) en la aplicación creada en el Codelab 4.1.
