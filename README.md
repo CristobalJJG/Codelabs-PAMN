@@ -2,6 +2,20 @@
 Hemos decidido realizar las prácticas con Android Pie (Android 9), para poder tener la aplicación en nuestros móviles y poder probarla.  
 ---
 # Notas de Jose Illera 📝
+Siguiendo el curso de Codelabs obsoleto. Las distintas aplicaciones subidas por mi parte no tienen los nombres de los Codelabs, se refleja en el README a que aplicación corresponde cada Codelabs. El proyecto "HelloToast" es un proyecto que empece hacer del curso no obsoleto, que no agrego a las descripciones de los Codelabs simplemento por pertenecer a otro "curso". Tambien añadir que en los Codelabs marcan como "tareas a realizar por nosotros mismos" las cuales tambien se han ido completando.
+
+## **Lección 1**
+### **Codelab 1.1 (Primer Proyecto)**
+Compruebo que la instalación de Android-Studio y que todo funciona correctamente. Creo mi primer proyecto y sigo el curso de Codelabs 1.1. Comrpuebo que los cambios realizados sobre el TextView se han realizado.
+
+---
+### **Codelab 1.2 (DiceRoller)**
+Aprendo un poco mas como funciona Android-Studio y su multiples ficheros y archivos. Añadiendo mas funcionalidad a las plicaciones creadas como botones y eventos a ellos.
+
+---
+### **Codelab 1.3 (DiceRoller)**
+Continuo con la aplicación creada en el anterior Codelab. Añado imagenes a la aplicación y como se empieza a complicar la cosa tambien explican una manera más fácil de cargar las imagenes sin la necesidad de estar buscando la imagen desde el directorio raiz todo el rato. Explican un poco como funcionan las versiones de Android dentro de un proyecto.
+
 ---  
 # Notas de Cristóbal Jiménez 📝
 Empecé a hacer los Codelabs de la página deprecada, y decidí cambiar a la página no deprecada, por lo que los Codelab 1, 2 y 3, son de la página deprecada y los Codelab 1.5 en adelante son de la [página no deprecada](https://developer.android.com/courses/fundamentals-training/toc-v2).  
