@@ -16,6 +16,10 @@ Aprendo un poco mas como funciona Android-Studio y su multiples ficheros y archi
 ### **Codelab 1.3 (DiceRoller)**
 Continuo con la aplicación creada en el anterior Codelab. Añado imagenes a la aplicación y como se empieza a complicar la cosa tambien explican una manera más fácil de cargar las imagenes sin la necesidad de estar buscando la imagen desde el directorio raiz todo el rato. Explican un poco como funcionan las versiones de Android dentro de un proyecto.
 
+---
+### **Codelab 1.4 (Plantilla_Basica y sunflower-main)**
+Nuevos pryectos creados, en el primero se aprende el manejo de las plantillas, en el segundo a cambiar el icono por defecto de la aplicación.
+
 ---  
 # Notas de Cristóbal Jiménez 📝
 Empecé a hacer los Codelabs de la página deprecada, y decidí cambiar a la página no deprecada, por lo que los Codelab 1, 2 y 3, son de la página deprecada y los Codelab 1.5 en adelante son de la [página no deprecada](https://developer.android.com/courses/fundamentals-training/toc-v2).  
