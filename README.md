@@ -2,7 +2,7 @@
 Hemos decidido realizar las prácticas con Android Pie (Android 9), para poder tener la aplicación en nuestros móviles y poder probarla.  
 ---
 # Notas de Jose Illera 📝
-Siguiendo el curso de Codelabs obsoleto. Las distintas aplicaciones subidas por mi parte no tienen los nombres de los Codelabs, se refleja en el README a que aplicación corresponde cada Codelabs. El proyecto "HelloToast" es un proyecto que empece hacer del curso no obsoleto, que no agrego a las descripciones de los Codelabs simplemento por pertenecer a otro "curso". Tambien añadir que en los Codelabs marcan como "tareas a realizar por nosotros mismos" las cuales tambien se han ido completando.
+Siguiendo el curso de Codelabs obsoleto. Las distintas aplicaciones subidas por mi parte no tienen los nombres de los Codelabs, se refleja en el README a que aplicación corresponde cada Codelabs. Tambien añadir que en los Codelabs marcan como "tareas a realizar por nosotros mismos" las cuales tambien se han ido completando. A partir del 1.4 sido con el curso no obselto -> continuo con este curso https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-1?hl=es-419. 
 
 ## **Lección 1**
 ### **Codelab 1.1 (Primer Proyecto)**
@@ -16,7 +16,21 @@ Aprendo un poco mas como funciona Android-Studio y su multiples ficheros y archi
 ### **Codelab 1.3 (DiceRoller)**
 Continuo con la aplicación creada en el anterior Codelab. Añado imagenes a la aplicación y como se empieza a complicar la cosa tambien explican una manera más fácil de cargar las imagenes sin la necesidad de estar buscando la imagen desde el directorio raiz todo el rato. Explican un poco como funcionan las versiones de Android dentro de un proyecto.
 
+---
+### **Codelab 1.4 (Plantilla_Basica y sunflower-main)**
+Nuevos pryectos creados, en el primero se aprende el manejo de las plantillas, en el segundo a cambiar el icono por defecto de la aplicación.
+
 ---  
+## **Unidad 2: Layouts**
+### **Get user input in a app: Part 1**
+#### **Clases y herencias en Kotlin**
+Accedo al Playground de Kotlin en https://developer.android.com/training/kotlinplayground. Desde aquí es donde practico esta parte del tema, en la cual ejecuto código de Kotlin. El archivo de este Codelab tiene extención ".txt".
+
+---
+#### **Cómo crear diseños XML para Android**
+Se crea un nuevo proyecto "TipTime" en cual se pretende hacer una calculadora de propinas, como App para móviles. Se comprende mas sobre los archivos XML.
+
+---
 # Notas de Cristóbal Jiménez 📝
 Empecé a hacer los Codelabs de la página deprecada, y decidí cambiar a la página no deprecada, por lo que los Codelab 1, 2 y 3, son de la página deprecada y los Codelab 1.5 en adelante son de la [página no deprecada](https://developer.android.com/courses/fundamentals-training/toc-v2).  
 
