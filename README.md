@@ -25,7 +25,7 @@ Nuevos pryectos creados, en el primero se aprende el manejo de las plantillas, e
 ## **Unidad 2: Layouts**
 ### **Get user input in a app: Part 1**
 #### **Clases y herencias en Kotlin**
-Accedo al Playground de Kotlin en https://developer.android.com/training/kotlinplayground. Desde aquí es donde practico esta parte del tema.
+Accedo al Playground de Kotlin en https://developer.android.com/training/kotlinplayground. Desde aquí es donde practico esta parte del tema, en la cual ejecuto código de Kotlin. El archivo de este Codelab tiene extención ".txt".
 
 ---
 # Notas de Cristóbal Jiménez 📝
