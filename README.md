@@ -21,11 +21,18 @@ Continuo con la aplicación creada en el anterior Codelab. Añado imagenes a la 
 Nuevos pryectos creados, en el primero se aprende el manejo de las plantillas, en el segundo a cambiar el icono por defecto de la aplicación.
 
 ---  
-
 ## **Unidad 2: Layouts**
 ### **Get user input in a app: Part 1**
 #### **Clases y herencias en Kotlin**
 Accedo al Playground de Kotlin en https://developer.android.com/training/kotlinplayground. Desde aquí es donde practico esta parte del tema, en la cual ejecuto código de Kotlin. El archivo de este Codelab tiene extención ".txt".
+
+---
+#### **Cómo crear diseños XML para Android**
+Se crea un nuevo proyecto "TipTime" (Temporizador de propinas) en cual se pretende hacer una calculadora de propinas, como App para móviles. Se comprende mas sobre los archivos XML. Y la creación de botones y grupo de botones.
+
+---
+#### **Cómo calcular propinas**
+
 
 ---
 # Notas de Cristóbal Jiménez 📝
