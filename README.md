@@ -32,6 +32,7 @@ Se crea un nuevo proyecto "TipTime" (Temporizador de propinas) en cual se preten
 
 ---
 #### **Cómo calcular propinas**
+Código para calcular la propina. El boton recopila los datos de los otros campos y calcula el importe de la propia. Agregamos la funcionalidad de "Vinculación Vista"
 
 
 ---
