@@ -28,7 +28,11 @@ Accedo al Playground de Kotlin en https://developer.android.com/training/kotlinp
 
 ---
 #### **Cómo crear diseños XML para Android**
-Se crea un nuevo proyecto "TipTime" en cual se pretende hacer una calculadora de propinas, como App para móviles. Se comprende mas sobre los archivos XML.
+Se crea un nuevo proyecto "TipTime" (Temporizador de propinas) en cual se pretende hacer una calculadora de propinas, como App para móviles. Se comprende mas sobre los archivos XML. Y la creación de botones y grupo de botones.
+
+---
+#### **Cómo calcular propinas**
+
 
 ---
 # Notas de Cristóbal Jiménez 📝
