@@ -34,8 +34,12 @@ Se crea un nuevo proyecto "TipTime" (Temporizador de propinas) en cual se preten
 #### **Cómo calcular propinas**
 Código para calcular la propina. El boton recopila los datos de los otros campos y calcula el importe de la propia. Agregamos la funcionalidad de "Vinculación Vista" y se le da la funcionalidad que falta a la aplicacíon.
 
-
 ---
+### **Get user input in a app: Part 2**
+#### **Change the app theme**
+Reutilizamos el proyecto "TipTime", práctica para la selección adecuada de colores.
+
+__
 # Notas de Cristóbal Jiménez 📝
 Empecé a hacer los Codelabs de la página deprecada, y decidí cambiar a la página no deprecada, por lo que los Codelab 1, 2 y 3, son de la página deprecada y los Codelab 1.5 en adelante son de la [página no deprecada](https://developer.android.com/courses/fundamentals-training/toc-v2).  
 
